@@ -1,8 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
-</h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=007bff&lines=Hi+There!+👋;+I'm+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
+
 
 <h3 align="center"> Teruslah bermimpi setinggi langit, bila jatuh bangkit  🇨🇦</h3>
 
@@ -52,13 +52,14 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <hr/>
 
 <h2 align="center" style="color: #007bff;">⚡ Tenaga ⚡</h2>
-<br>
-<div align="center" style="background: #f0f4ff; padding: 20px; border-radius: 15px;">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Takamiwaa&count_private=true&theme=blue-green&border_radius=10" alt="streak stats" style="border-radius: 10px;"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&count_private=true&show_icons=true&theme=blue-green&rank_icon=github&border_radius=10" alt="readme stats" style="border-radius: 10px;"/>
+
+<div align="center">
+  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Takamiwaa&theme=blue-green&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=blue-green&border_radius=10" alt="readme stats"/>
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&hide=HTML&langs_count=8&layout=compact&theme=blue-green&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="border-radius: 10px;"/>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="top langs"/>
 </div>
+
 
 
 <br/><br/>

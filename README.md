@@ -14,14 +14,10 @@
 
 Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode apk, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 🗿 
 
- </div>
- <div>
-     ![Slide 1](https://files.catbox.moe/8adpc9.jpg)
-![Slide 2](https://example.com/image2.png)
-![Slide 3](https://example.com/image3.png)
+  <img src="https://files.catbox.moe/8adpc9.jpg" />
 
  </div>
- 
+
 <div align="center"> 
   <a href="mailto:animesensei198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />

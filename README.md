@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=Hi+There!+👋;+I'm+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
 
-<h3 align="center"> Teruslah bermimpi setinggi langit, bila jatuh bangkit  🇨🇦</h3>
+<h3 align="center"> Teruslah bermimpi setinggi langit, bila jatuh bangkit (^///^) </h3>
 
 <br/>
 
@@ -14,19 +14,6 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
   <img src="https://files.catbox.moe/grhrxj.jpg" />
 
  </div>
-
-<div align="center"> 
-  <a href="mailto:animesensei198@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
- <a href="https://www.tiktok.com/@wowieeameeza" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
-</a>
-<a href="https://github.com/Takamiwaa" target="_blank">
-   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-</a>
-</div>
-
  <hr/>
  
 <h2 align="center">⚒️ Skil Saya ⚒️</h2>
@@ -55,10 +42,23 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="1000"/>
   </a>
+</div>
 
   <br/><br/>
 
 <br/><br/>
+
+<div align="center"> 
+  <a href="mailto:animesensei198@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+ <a href="https://www.tiktok.com/@wowieeameeza" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
+</a>
+<a href="https://github.com/Takamiwaa" target="_blank">
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+</a>
+</div>
 
 <hr/>
 

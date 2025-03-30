@@ -15,6 +15,12 @@
 Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode apk, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 🗿 
 
  </div>
+ <div>
+     ![Slide 1](https://example.com/image1.png)
+![Slide 2](https://example.com/image2.png)
+![Slide 3](https://example.com/image3.png)
+
+ </div>
  
 <div align="center"> 
   <a href="mailto:animesensei198@gmail.com">
@@ -33,7 +39,7 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <h2 align="center">⚒️ Skil Saya ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,python,javascript,nodejs,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,nodejs,git" /><br>
 </div>
 
 <br/>

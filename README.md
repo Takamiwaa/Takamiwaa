@@ -61,7 +61,9 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
   <br/><br/>
 
   <!-- Spotify Now Playing Card -->
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=YOUR_SPOTIFY_USERNAME" alt="Spotify Now Playing" width="400"/>
+  <img src="<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Data Card for Spotify">
+</a>" alt="Ngelagu Bre" width="400"/>
 </div>
 
 

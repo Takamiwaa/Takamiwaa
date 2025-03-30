@@ -58,7 +58,12 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=blue-green&border_radius=10" alt="readme stats"/>
   <br/>
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="top langs"/>
+  <br/><br/>
+
+  <!-- Spotify Now Playing Card -->
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user=YOUR_SPOTIFY_USERNAME" alt="Spotify Now Playing" width="400"/>
 </div>
+
 
 
 

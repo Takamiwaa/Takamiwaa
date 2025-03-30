@@ -1,8 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=007bff&lines=Hi+There!+👋;+I'm+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
-
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=Hi+There!+👋;+I'm+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
 
 <h3 align="center"> Teruslah bermimpi setinggi langit, bila jatuh bangkit  🇨🇦</h3>
 
@@ -10,11 +7,11 @@
 
 <div align="center">
  
- 🚀 Pengembang | 📜 Penulis | 🎮 Gamer | 🎨 Desainer  
+ 🚀 Wibu | 📜 Penulis | 🎮 Gemink | 🎨 Gambar 
 
 Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode apk, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 🗿 
 
-  <img src="https://files.catbox.moe/8adpc9.jpg" />
+  <img src="https://files.catbox.moe/grhrxj.jpg" />
 
  </div>
 
@@ -54,7 +51,7 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <h2 align="center" style="color: #007bff;">⚡ Tenaga ⚡</h2>
 
 <div align="center">
-<img src="https://leetcard.jacoblin.cool/Takamiwaa?ext=heatmap" alt="LeetCode Stats" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="Top Languages"/>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="400"/>
   </a>

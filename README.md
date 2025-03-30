@@ -16,7 +16,7 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 
  </div>
  <div>
-     ![Slide 1](https://example.com/image1.png)
+     ![Slide 1](https://files.catbox.moe/8adpc9.jpg)
 ![Slide 2](https://example.com/image2.png)
 ![Slide 3](https://example.com/image3.png)
 

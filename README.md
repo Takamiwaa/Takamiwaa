@@ -54,26 +54,12 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <h2 align="center" style="color: #007bff;">⚡ Tenaga ⚡</h2>
 
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats.vercel.app/?user=Takamiwaa&theme=blue-green&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=blue-green&border_radius=10" alt="readme stats"/>
-  <br/>
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="top langs"/>
-  <br/><br/>
-
-  <!-- Spotify Now Playing Card -->
+<img src="https://leetcard.jacoblin.cool/Takamiwaa?ext=heatmap" alt="LeetCode Stats" width="400"/>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="400"/>
   </a>
 
   <br/><br/>
-
-  <!-- LeetCode Card -->
-  <img src="https://leetcard.jacoblin.cool/your_username?ext=heatmap" alt="LeetCode Stats" width="400"/>
-</div>
-
-
-
-
 
 <br/><br/>
 

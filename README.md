@@ -21,10 +21,7 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" /><br>
 </div>
-
-
 <br/>
-<hr/>
 <hr/>
 
 <h2 align="center" style="color: #007bff;">⚡ Tenaga ⚡</h2>

@@ -19,7 +19,7 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <h2 align="center">⚒️ Skil Saya ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,python,javascript,nodejs,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" /><br>
 </div>
 
 <br/>

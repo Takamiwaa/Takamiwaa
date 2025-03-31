@@ -19,21 +19,12 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
 <h2 align="center">⚒️ Skil Saya ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git,apkeditor,mtmanager,aokeditor,npmanager" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" /><br>
 </div>
 
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 Kontribusi Saya 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center" style="color: #007bff;">⚡ Tenaga ⚡</h2>
@@ -57,7 +48,7 @@ Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode 
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank" />
 </a>
 <a href="https://github.com/Takamiwaa" target="_blank">
-   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
+   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" target="_blank" />
 </a>
 </div>
 

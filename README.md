@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo+semuaa!+👋;+aku+owwen+zevres+ mwehe!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo%20semuaa!%20👋|aku%20owwen%20zevres%20mwehe!|Welcome%20to%20My%20Profile!|Let's%20Code%20Something%20Awesome!" />
 
 <h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 

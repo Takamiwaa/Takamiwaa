@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=Halo+semua!|Aku+Galang+Owwen&pause=1000&waitBeforeDelete=1500" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=Halo+semua!;Aku+Galang+Owwen;Selamat+Datang+di+Profil+Gua" />
 
 <h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 

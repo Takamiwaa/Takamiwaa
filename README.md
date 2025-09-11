@@ -1,24 +1,24 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo+semuaa!+👋;+aku+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo+semuaa!+👋;+aku+owwen+zevres+ mwehe!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
 
-<h3 align="center"> hanya manusia biasa makan nasi (^///^) </h3>
+<h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 
 <br/>
 
 <div align="center">
  
- ditanya hobi mah udh pasti banyak.
+✣ ditanya hobi mah udh pasti banyak.
 
-Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 
+✣ Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 
 
-sorry jarang upload🗿 
+✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
 
   <img src="https://files.catbox.moe/1e8qz3.jpg" />
 
  </div>
  <hr/>
  
-<h2 align="center">⚒️ skil Saya ⚒️</h2>
+<h2 align="center"> 𖣘 skil Saya 𖣘</h2>
 <h4 align="center">tapi ini belum expret yaa</h4>
 <br/>
 <div align="center">
@@ -27,7 +27,7 @@ sorry jarang upload🗿
 <br/>
 <hr/>
 
-<h2 align="center" style="color: #007bff;">⚡ Tenaga ⚡</h2>
+<h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="Top Languages"/>
@@ -50,7 +50,7 @@ sorry jarang upload🗿
 </a>
 </div>
 <div align="center">
-  <img src="https://files.catbox.moe/1e8qz3.jpg" />
+  <img src="https://files.catbox.moe/yqrxxv.png" />
 
  </div>
 <hr/>

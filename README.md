@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=Halo+semua!;Aku+Owinn;Selamat+datang+di...;Github+aku" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=halo+semua!;kenalin+aku+Owinn;selamat+datang+di...;Github+aku;disini+isinya+cuman;kegabutan+aku+doang;" />
 <h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 
 <br/>
@@ -21,10 +21,6 @@
 <div align="center">
     <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/MT_Manager_logo.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/APK_Editor_Pro_logo.png" width="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NP_Manager_logo.png" width="40" />
-  <img src="https://files.catbox.moe/k05rls.png" width="47" style="border-radius:12px;" />
 <br/>
 <hr/>
 

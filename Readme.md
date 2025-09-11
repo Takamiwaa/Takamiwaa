@@ -29,14 +29,14 @@
 <h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
 
 <div align="center">
-  <a href="https://files.catbox.moe/yqrxxv.png">
-    <img src="https://files.catbox.moe/yqrxxv.png" width="250"/>
+  <a href="https://files.catbox.moe/k05rls.png">
+    <img src="https://files.catbox.moe/k05rls.png" width="50"/>
   </a>
   <a href="https://files.catbox.moe/k05rls.png">
-    <img src="https://files.catbox.moe/k05rls.png" width="250"/>
+    <img src="https://files.catbox.moe/k05rls.png" width="50"/>
   </a>
   <a href="https://files.catbox.moe/b3l7rm.png">
-    <img src="https://files.catbox.moe/b3l7rm.png" width="250"/>
+    <img src="https://files.catbox.moe/b3l7rm.png" width="50"/>
   </a>
 </div>
 <div align="center">

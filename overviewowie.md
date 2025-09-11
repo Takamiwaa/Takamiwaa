@@ -14,7 +14,7 @@
 <img src="https://files.catbox.moe/yqrxxv.png" />
  </div>
   <div alight="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydDNxcGN3N20zdW42cHJwMTV4dXY1N2luOWc0OWh3Y3VwcHQ2NjlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qTER3TSHnmzxHIVQS/giphy.gif" width="700" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydDNxcGN3N20zdW42cHJwMTV4dXY1N2luOWc0OWh3Y3VwcHQ2NjlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qTER3TSHnmzxHIVQS/giphy.gif" width="1000" />
  </div>
  <hr/>
  

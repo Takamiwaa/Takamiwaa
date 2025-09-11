@@ -34,9 +34,9 @@
   </a>
   <a href="https://github.com/Takamiwaa" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=radical" alt="GitHub Stats" width="700"/>
-  </a>
+  </a><h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
 </div>
-<h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
+
 <br/><br/>
 
 <div align="center"> 

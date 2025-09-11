@@ -13,9 +13,14 @@
 ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
 <img src="https://files.catbox.moe/yqrxxv.png" />
  </div>
-  <div alight="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydDNxcGN3N20zdW42cHJwMTV4dXY1N2luOWc0OWh3Y3VwcHQ2NjlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qTER3TSHnmzxHIVQS/giphy.gif" width="1000" />
- </div>
+  <div align="center">
+  <a href="https://link-pertama.com">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydDNxcGN3N20zdW42cHJwMTV4dXY1N2luOWc0OWh3Y3VwcHQ2NjlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qTER3TSHnmzxHIVQS/giphy.gif" width="1000" />
+  </a>
+  <a href="https://link-kedua.com">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />
+  </a>
+</div>
  <hr/>
  
 <h2 align="center"> 𖣘 skil Saya 𖣘</h2>
@@ -35,10 +40,8 @@
   </a>
  <a href="https://github.com/Takamiwaa" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=radical" alt="GitHub Stats" width="700"/>
-</a>
-</div>  <div alight="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />
- </div>
+ </a>
+</div>
 <hr/>
   <br/><br/>
 <br/>
@@ -58,8 +61,6 @@
   </a>
 </div>
   <div alight="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />
- </div>
 <hr/>
 <br/>
 <br/>

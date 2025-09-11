@@ -48,7 +48,6 @@
 </div>
 <div align="center">
    <img src="https://files.catbox.moe/1e8qz3.jpg" />
-
  </div>
 <hr/>
 <br/>

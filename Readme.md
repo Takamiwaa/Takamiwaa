@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
 <br/>
 <hr/>
-
+* [Instagram](https://www.instagram.com/owwen.zvs/)
 <h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
 
 <div align="center">

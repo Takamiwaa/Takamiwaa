@@ -35,11 +35,9 @@ sorry jarang upload🗿
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="1000"/>
   </a>
 </div>
-
   <br/><br/>
-
-<br/><br/>
-
+<br/>
+<br/>
 <div align="center"> 
   <a href="mailto:animesensei198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -51,9 +49,9 @@ sorry jarang upload🗿
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" target="_blank" />
 </a>
 </div>
- <img src="https://files.catbox.moe/o6o8vx.jpg" />
-
+<div>
+    <img src="https://files.catbox.moe/o6o8vx.jpg" />
+</div>
 <hr/>
-
 <br/>
 <br/>

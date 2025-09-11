@@ -12,9 +12,7 @@
 ✣ Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 
 
 ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
-
-  <img src="https://files.catbox.moe/1e8qz3.jpg" />
-
+<img src="https://files.catbox.moe/yqrxxv.png" />
  </div>
  <hr/>
  
@@ -50,7 +48,7 @@
 </a>
 </div>
 <div align="center">
-  <img src="https://files.catbox.moe/yqrxxv.png" />
+   <img src="https://files.catbox.moe/1e8qz3.jpg" />
 
  </div>
 <hr/>

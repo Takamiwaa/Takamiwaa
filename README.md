@@ -13,7 +13,7 @@ Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recod
 
 sorry jarang upload🗿 
 
-  <img src="https://files.catbox.moe/grhrxj.jpg" />
+  <img src="https://files.catbox.moe/1e8qz3.jpg" />
 
  </div>
  <hr/>
@@ -51,6 +51,7 @@ sorry jarang upload🗿
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" target="_blank" />
 </a>
 </div>
+ <img src="https://files.catbox.moe/o6o8vx.jpg" />
 
 <hr/>
 

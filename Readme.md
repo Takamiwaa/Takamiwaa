@@ -26,6 +26,7 @@
 </div>
 <br/>
 <h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
+<h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="Top Languages"/>
@@ -34,7 +35,7 @@
   </a>
   <a href="https://github.com/Takamiwaa" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=radical" alt="GitHub Stats" width="700"/>
-  </a><h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
+  </a>
 </div>
 
 <br/><br/>

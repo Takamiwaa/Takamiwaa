@@ -50,8 +50,9 @@ sorry jarang upload🗿
 </a>
 </div>
 <div align="center">
-    <img src="https://files.catbox.moe/o6o8vx.jpg" />
-</div>
+  <img src="https://files.catbox.moe/1e8qz3.jpg" />
+
+ </div>
 <hr/>
 <br/>
 <br/>

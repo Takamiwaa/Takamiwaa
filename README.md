@@ -24,8 +24,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/MT_Manager_logo.png" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/APK_Editor_Pro_logo.png" width="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NP_Manager_logo.png" width="40" />
-  <img src="https://files.catbox.moe/0o1hmt.jpg" width="40" />
-</p>
+  <img src="https://files.catbox.moe/0o1hmt.jpg" width="50" style="border-radius:12px;" />
 <br/>
 <hr/>
 

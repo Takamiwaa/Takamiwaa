@@ -33,8 +33,8 @@
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="1000"/>
   </a>
- <a href="https://anilist.co/user/owwenzvs/" target="_blank">
-  <img src="https://anilist-readme-badge.vercel.app/api?user=owwenzvs" alt="AniList Watching" width="1000"/>
+ <a href="https://github.com/Takamiwaa" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=radical" alt="GitHub Stats" width="1000"/>
 </a>
 </div>
   <br/><br/>

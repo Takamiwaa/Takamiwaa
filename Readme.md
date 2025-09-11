@@ -36,7 +36,10 @@
  <a href="https://github.com/Takamiwaa" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=radical" alt="GitHub Stats" width="700"/>
 </a>
-</div>
+</div>  <div alight="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />
+ </div>
+<hr/>
   <br/><br/>
 <br/>
 <br/>

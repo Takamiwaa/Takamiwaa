@@ -1,22 +1,25 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=Hi+There!+👋;+I'm+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo+semuaa!+👋;+aku+Takamiwa+Zevres+Win!;+Welcome+to+My+Profile!;+Let's+Code+Something+Awesome!;" />
 
-<h3 align="center"> Teruslah bermimpi setinggi langit, bila jatuh bangkit (^///^) </h3>
+<h3 align="center"> hanya manusia biasa makan nasi (^///^) </h3>
 
 <br/>
 
 <div align="center">
  
- 🚀 Wibu | 📜 Penulis | 🎮 Gemink | 🎨 Gambar 
+ ditanya hobi mah udh pasti banyak.
 
-Perkenalkan saya wowi saya memiliki hobi upgrade apk atau biasa di sebut recode apk, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 🗿 
+Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 
+
+sorry jarang upload🗿 
 
   <img src="https://files.catbox.moe/grhrxj.jpg" />
 
  </div>
  <hr/>
  
-<h2 align="center">⚒️ Skil Saya ⚒️</h2>
+<h2 align="center">⚒️ skil Saya ⚒️</h2>
+<h4 align="center">tapi ini belum expret yaa</h4>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" /><br>

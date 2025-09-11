@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
 <br/>
 <hr/>
-* [Instagram](https://www.instagram.com/owwen.zvs/)
 <h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
 
 <div align="center">
@@ -49,9 +48,6 @@
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" target="_blank" />
 </a>
 </div>
-<div align="center">
-   <img src="https://files.catbox.moe/1e8qz3.jpg" />
- </div>
 <hr/>
 <br/>
 <br/>

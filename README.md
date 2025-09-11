@@ -8,7 +8,7 @@
  
 ✣ ditanya hobi mah udh pasti banyak.
 
-✣ Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 
+✣ Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, membuat BOT whatsapp juga, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me 
 
 ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
 <img src="https://files.catbox.moe/yqrxxv.png" />

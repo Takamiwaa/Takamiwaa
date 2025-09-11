@@ -54,6 +54,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+  <div alight="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />
+ </div>
 <hr/>
 <br/>
 <br/>

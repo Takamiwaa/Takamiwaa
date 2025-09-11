@@ -49,7 +49,7 @@ sorry jarang upload🗿
    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=blue" target="_blank" />
 </a>
 </div>
-<div>
+<div align="center">
     <img src="https://files.catbox.moe/o6o8vx.jpg" />
 </div>
 <hr/>

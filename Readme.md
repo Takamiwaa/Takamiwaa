@@ -34,7 +34,7 @@
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="1000"/>
   </a>
  <a href="https://anilist.co/user/owwen_zvs/" target="_blank">
-  <img src="https://anilist-readme-badge.vercel.app/api?user=owwen_zvs" alt="AniList Watching" width="1000"/>
+  <img src="https://anilist-readme-badge.vercel.app/api?user=owwenzvs" alt="AniList Watching" width="1000"/>
 </a>
 </div>
   <br/><br/>

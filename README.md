@@ -1,5 +1,15 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo+semuaa!+👋|aku+owwen+zevres+mwehe!|Welcome+to+My+Profile!|Let's+Code+Something+Awesome!" />
+<!-- Baris 1 -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=haloo+semuaa!+👋" />
+
+<!-- Baris 2 -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=aku+owwen+zevres+mwehe!" />
+
+<!-- Baris 3 -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=Welcome+to+My+Profile!" />
+
+<!-- Baris 4 -->
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=3000&color=FF0000&lines=Let's+Code+Something+Awesome!" />
 
 <h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 

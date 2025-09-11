@@ -19,8 +19,13 @@
 <h4 align="center">tapi ini belum expret yaa</h4>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" /><br>
-</div>
+    <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/MT_Manager_logo.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/APK_Editor_Pro_logo.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/NP_Manager_logo.png" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Alight_Motion_logo.png" width="40" />
+</p>
 <br/>
 <hr/>
 

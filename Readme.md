@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
 </div>
 <br/>
-<h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
+<h2 align="center" style="color: #007bff;"> ✥ Aplikasi ✥ </h2>
 
 <div align="center">
   <a href="https://files.catbox.moe/k05rls.png">

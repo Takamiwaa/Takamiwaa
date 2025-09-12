@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=oi!!;aku+nak+tanya+ni!;suka+matcha+atau+suka+kopi;kalau+pilih+kopi-lihku;disini+🍵☕;Github+aku;disini+isinya+cuman..;kegabutan+aku+doang;mwehee;makasih+udah+dateng+ke..;github+aku;" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=oi!!;aku+nak+tanya+ni!;suka+matcha+atau+suka+kopi;kalau+pilih+kopi;baik+kopi-lihku;disini+🍵☕;Github+aku;disini+isinya+cuman..;kegabutan+aku+doang;mwehee;makasih+udah+dateng+ke..;github+aku;" />
 </h1>
 <h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 

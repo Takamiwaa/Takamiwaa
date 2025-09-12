@@ -22,7 +22,7 @@
 <h4 align="center">tapi ini belum expret yaa</h4>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,github,figma,javascript,nodejs,git" />
 </div>
 <br/>
 <h2 align="center" style="color: #007bff;"> ✥ Aplikasi ✥ </h2>

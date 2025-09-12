@@ -32,8 +32,8 @@
   <a href="https://files.catbox.moe/k05rls.png">
     <img src="https://files.catbox.moe/k05rls.png" width="48"/>
   </a>
-  <a href="https://files.catbox.moe/q34sgn.png">
-    <img src="https://files.catbox.moe/q34sgn.png" width="48"/>
+  <a href="https://files.catbox.moe/rcn6a0.png">
+    <img src="https://files.catbox.moe/rcn6a0.png" width="48"/>
   </a>
   <a href="https://files.catbox.moe/b3l7rm.png">
     <img src="https://files.catbox.moe/b3l7rm.png" width="48"/>

@@ -1,17 +1,6 @@
 <h1 align="center">
 <p align="center">
-  <!-- baris pembuka putih -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&lines=oi!!;aku+nak+tanya+ni!" />
-  
-  <!-- kata matcha hijau -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=00FF00&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&lines=suka+matcha" />
-  
-  <!-- kata kopi coklat -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=8B4513&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&lines=atau+suka+kopi" />
-  
-  <!-- sisa putih -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&color=FFFFFF&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&lines=kalau+pilih+kopi;baik+kopi-lihku;disini+🍵☕;" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=oi!!;aku+nak+tanya+ni!;suka+matcha+atau+suka+kopi;kalau+pilih+kopi;baik+kopi-lihku;disini+🍵☕;" />
 </h1>
 <h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
 

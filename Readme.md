@@ -28,6 +28,7 @@
 <h2 align="center" style="color: #007bff;"> ✥ Aplikasi ✥ </h2>
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" />
   <a href="https://files.catbox.moe/k05rls.png">
     <img src="https://files.catbox.moe/k05rls.png" width="50"/>
   </a>
@@ -36,6 +37,9 @@
   </a>
   <a href="https://files.catbox.moe/b3l7rm.png">
     <img src="https://files.catbox.moe/b3l7rm.png" width="50"/>
+  </a>
+  <a href="https://files.catbox.moe/myy6u9.png">
+    <img src="https://files.catbox.moe/myy6u9.png" width="50"/>
   </a>
 </div>
 <h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>

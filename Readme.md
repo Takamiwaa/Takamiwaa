@@ -25,7 +25,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,vscode,github,javascript,nodejs,git" />
 </div>
 <br/>
-<h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
 <h2 align="center" style="color: #007bff;"> ✤ Aplikasi ✤ </h2>
 
 <div align="center">
@@ -39,6 +38,7 @@
     <img src="https://files.catbox.moe/b3l7rm.png" width="50"/>
   </a>
 </div>
+<h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="Top Languages"/>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">

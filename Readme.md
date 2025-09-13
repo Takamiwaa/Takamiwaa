@@ -13,20 +13,15 @@
   ✣ Perkenalkan saya <b>Wowie</b>, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
   ✣ Bukan programmer (hanya ada ketertarikan)<br/><br/>
 
-  <b>✦ Hobi saya:</b><br/>
-
+ <b>✦ Hobi saya:</b><br/>
 🎨 Gambar & Desain<br/>
-💻 Coding (tergantung mood bro)<br/><br/>
-
-🤸 Calisthenics<br/>
-🏸 Badminton<br/><br/>
-
-🔧 Bongkar & Merakit Elektronik<br/>
-📖 Membaca buku (tergantung mood)<br/><br/>
-
-🐈🐕 Sangat suka Kucing & Anjing<br/><br/>
-
+💻 Coding (tergantung mood bro)<br/>
 🍜 Makan (apapun itu)<br/>
+🤸 Calisthenics<br/>
+🏸 Badminton<br/>
+🔧 Bongkar & Merakit Elektronik<br/>
+🐈🐕 Sangat suka Kucing & Anjing<br/>
+📖 Membaca buku (tergantung mood)<br/>
 🎬 Nonton<br/><br/>
 
 

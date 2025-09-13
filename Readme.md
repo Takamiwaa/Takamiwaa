@@ -1,25 +1,26 @@
 <h1 align="center">
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=oi!!;aku+nak+tanya+ni!;suka+matcha+atau+suka+kopi;kalau+pilih+kopi;baik+kopi-lihku;disini+🍵☕;" />
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=oi!!;aku+nak+tanya+ni!;suka+matcha+atau+suka+kopi;kalau+pilih+kopi;baik+kopi-lihku;disini+🍵☕;" />
+  </p>
 </h1>
-<h3 align="center"> 𓅂 hanya manusia biasa makan nasi (^///^) </h3>
+
+<h3 align="center">𓅂 hanya manusia biasa makan nasi (^///^)</h3>
 
 <br/>
 
 <div style="text-align: left; width: 500px;">
-✣ ditanya hobi mah udh pasti banyak.<br/>
-✣ Perkenalkan saya Wowie, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
-✣ Bukan programmer (hanya ada ketertarikan)<br/><br/><br/>
+  ✣ ditanya hobi mah udh pasti banyak.<br/>
+  ✣ Perkenalkan saya Wowie, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
+  ✣ Bukan programmer (hanya ada ketertarikan)<br/><br/><br/>
 </div>
 
 <div align="center">
-  <div style="font-size: 24px; margin-bottom: 20px;">
+  <h3>
     ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
-  </div>
+  </h3>
+  <br/><br/><br/>
   <img src="https://files.catbox.moe/yqrxxv.png" />
 </div>
-
-
 
 <div align="center">
   <a href="https://link-pertama.com">
@@ -27,31 +28,37 @@
   </a>
 </div>
 
-<h2 align="center"> 𖣘 skil Saya 𖣘</h2>
+<h2 align="center">𖣘 Skil Saya 𖣘</h2>
 <h4 align="center">tapi ini belum expret yaa</h4>
+
 <br/>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,github,figma,javascript,nodejs,git" />
 </div>
+
 <br/>
-<h2 align="center" style="color: #007bff;"> ✥ Aplikasi ✥ </h2>
+
+<h2 align="center" style="color: #007bff;">✥ Aplikasi ✥</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <a href="https://files.catbox.moe/k05rls.png">
-    <img src="https://files.catbox.moe/k05rls.png" width="48"/>
+    <img src="https://files.catbox.moe/k05rls.png" width="48" />
   </a>
   <a href="https://files.catbox.moe/rcn6a0.png">
-    <img src="https://files.catbox.moe/rcn6a0.png" width="48"/>
+    <img src="https://files.catbox.moe/rcn6a0.png" width="48" />
   </a>
   <a href="https://files.catbox.moe/b3l7rm.png">
-    <img src="https://files.catbox.moe/b3l7rm.png" width="48"/>
+    <img src="https://files.catbox.moe/b3l7rm.png" width="48" />
   </a>
   <a href="https://files.catbox.moe/myy6u9.png">
-    <img src="https://files.catbox.moe/myy6u9.png" width="48"/>
+    <img src="https://files.catbox.moe/myy6u9.png" width="48" />
   </a>
 </div>
-<h2 align="center" style="color: #007bff;"> ✤ Tenaga ✤ </h2>
+
+<h2 align="center" style="color: #007bff;">✤ Tenaga ✤</h2>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="Top Languages"/>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
@@ -80,6 +87,7 @@
 </div>
 
 <hr/>
+
 <div align="center">
   <a href="https://link-kedua.com">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />

@@ -22,15 +22,17 @@
   🔧 Bongkar & Merakit Elektronik<br/>
   🐈 Pecinta Kucing<br/>
   📖 Membaca buku (tergantung mood)<br/><br/>
+</div>
 
-  <div style="text-align:center; font-size: 18px; margin-top: 20px;">
-    𓂀 𓆟 𓆝 𓆞 𓆟 𓅂 𓆝 𓆞 𓆟<br/>
-    ✦ 👾 ✦<br/>
-    <span style="letter-spacing:2px;">⊹ gurame ✤ nila ✺ mie ayam ✧ baso ✹ udang asam manis ✦</span><br/>
-    <span style="font-size:14px; opacity:0.8;">&lt;draw /&gt; | {design} | [code]</span><br/>
-    •<br/>
-    <i>i like everything ✧ gimana pun caranya</i>
-  </div>
+<!-- Bagian aesthetic center -->
+<div style="text-align:center; font-size: 18px; margin-top: 20px; font-family: 'Courier New', monospace;">
+  𓂀 𓆟 𓆝 𓆞 𓆟 𓅂 𓆝 𓆞 𓆟<br/>
+  ✦ 👾 ✦<br/>
+  <span style="letter-spacing:2px;">⊹ gurame ✤ nila ✺ mie ayam ✧ baso ✹ udang asam manis ✦</span><br/>
+  <span style="font-size:14px; opacity:0.8;">&lt;draw /&gt; | {design} | [code]</span><br/>
+  •<br/>
+  <i>i like everything ✧ gimana pun caranya</i>
+</div>
 </div>
 <div align="center">
   <h3>

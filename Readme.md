@@ -88,6 +88,26 @@
   </tr>
 </table>
 
+<br>
+
+<hr align="center" width="60%" style="border:1px dashed #888888"/>
+
+<br>
+
+<div align="center">
+  🎧 **Now Playing on Spotify** 🎶<br>
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="800"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  ✨ Keep coding, keep listening ✨
+</div>
+
+
 <div align="center">
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="800"/>

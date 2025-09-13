@@ -100,6 +100,7 @@
 <hr/>
 <div align="center">
   <a href="https://link-kedua.com">
+    <img src="https://files.catbox.moe/za93tl.png" />
     <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />
   </a>
 </div>

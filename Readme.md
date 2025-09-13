@@ -9,12 +9,14 @@
 <div style="text-align: left; width: 500px;">
 ✣ ditanya hobi mah udh pasti banyak.<br/>
 ✣ Perkenalkan saya Wowie, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
-✣ Bukan programmer (hanya ada ketertarikan)<br/>
+✣ Bukan programmer (hanya ada ketertarikan)<br/><br/><br/>
 </div>
-<h3 ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦ <h/3>
+
 <div align="center">
-<img src="https://files.catbox.moe/yqrxxv.png" />
+  ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
+  <img src="https://files.catbox.moe/yqrxxv.png" />
 </div>
+
 
 <div align="center">
   <a href="https://link-pertama.com">

@@ -8,12 +8,30 @@
 
 <br/>
 
-<div style="text-align: left; width: 500px;">
+<div style="text-align: left; width: 500px; font-family: 'Courier New', monospace; line-height: 1.6;">
   ✣ ditanya hobi mah udh pasti banyak.<br/>
-  ✣ Perkenalkan saya Wowie, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
-  ✣ Bukan programmer (hanya ada ketertarikan)<br/><br/><br/>
-</div>
+  ✣ Perkenalkan saya <b>Wowie</b>, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
+  ✣ Bukan programmer (hanya ada ketertarikan)<br/><br/>
 
+  <b>✦ Hobi saya:</b><br/>
+  🎨 Gambar & Desain<br/>
+  💻 Coding (tergantung mood bro)<br/>
+  🍜 Makan<br/>
+  🤸 Calisthenics<br/>
+  🏸 Badminton<br/>
+  🔧 Bongkar & Merakit Elektronik<br/>
+  🐈 Pecinta Kucing<br/>
+  📖 Membaca buku (tergantung mood)<br/><br/>
+
+  <div style="text-align:center; font-size: 18px; margin-top: 20px;">
+    𓂀 𓆟 𓆝 𓆞 𓆟 𓅂 𓆝 𓆞 𓆟<br/>
+    ✦ 👾 ✦<br/>
+    <span style="letter-spacing:2px;">⊹ gurame ✤ nila ✺ mie ayam ✧ baso ✹ udang asam manis ✦</span><br/>
+    <span style="font-size:14px; opacity:0.8;">&lt;draw /&gt; | {design} | [code]</span><br/>
+    •<br/>
+    <i>i like everything ✧ gimana pun caranya</i>
+  </div>
+</div>
 <div align="center">
   <h3>
     ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦

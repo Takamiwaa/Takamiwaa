@@ -11,8 +11,8 @@
 ✣ Perkenalkan saya Wowie, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
 ✣ Bukan programmer (hanya ada ketertarikan)<br/>
 </div>
+<h3 ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦ <h/3>
 <div align="center">
-✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
 <img src="https://files.catbox.moe/yqrxxv.png" />
 </div>
 

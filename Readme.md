@@ -3,17 +3,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&pause=1000&waitBeforeDelete=1500&color=FF0000&lines=oi!!;aku+nak+tanya+ni!;suka+matcha+atau+suka+kopi;kalau+pilih+kopi;baik+kopi-lihku;disini+🍵☕;" />
   </p>
 </h1>
-
 <h3 align="center">𓅂 hanya manusia biasa makan nasi (^///^)</h3>
-
 <br/>
-
 <div style="text-align: left; width: 500px; font-family: 'Courier New', monospace; line-height: 1.6;">
   ✣ ditanya hobi mah udh pasti banyak.<br/>
   ✣ Perkenalkan saya <b>Wowie</b>, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
   ✣ Bukan programmer (hanya ada ketertarikan)<br/><br/>
-
- <b>✦ Hobi saya:</b><br/>
+  <b>✦ Hobi saya:</b><br/>
 🎨 Gambar & Desain<br/>
 💻 Coding (tergantung mood bro)<br/>
 🍜 Makan (apapun itu)<br/>
@@ -23,12 +19,12 @@
 🐈🐕 Sangat suka Kucing & Anjing<br/>
 📖 Membaca buku (tergantung mood)<br/>
 🎬 Nonton<br/><br/>
-
-
 <div align="center">
   𓂀 𓆟 𓆝 𓆞 𓆟 𓅂 𓆝 𓆞 𓆟<br/>
   ✦ 👾 ✦<br/>
-  <span style="letter-spacing:2px;">⊹ gurame ✤ nila ✺ mie ayam ✧ baso ✹ udang asam manis ✦</span><br/>
+  <span style="letter-spacing:2px;">
+    ⊹ gurame ✤ nila ✺ mie ayam ✧ baso ✹ udang asam manis ✷ batagor ✶ cuanki ✦
+  </span><br/>
   <span style="font-size:14px; opacity:0.8;">&lt;draw /&gt; | {design} | [code]</span><br/>
   •<br/>
   <i>i like everything ✧ gimana pun caranya</i>

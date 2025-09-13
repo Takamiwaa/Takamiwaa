@@ -13,9 +13,12 @@
 </div>
 
 <div align="center">
-  ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
+  <div style="font-size: 24px; margin-bottom: 20px;">
+    ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
+  </div>
   <img src="https://files.catbox.moe/yqrxxv.png" />
 </div>
+
 
 
 <div align="center">

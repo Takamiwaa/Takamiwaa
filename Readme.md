@@ -14,15 +14,21 @@
   ✣ Bukan programmer (hanya ada ketertarikan)<br/><br/>
 
   <b>✦ Hobi saya:</b><br/>
-  🎨 Gambar & Desain<br/>
-  💻 Coding (tergantung mood bro)<br/>
-  🍜 Makan (apapun itu) <br/>
-  🤸 Calisthenics<br/>
-  🏸 Badminton<br/>
-  🔧 Bongkar & Merakit Elektronik<br/>
-  🐈 Sangat suka Kucing & Anjing 🐕 <br/>
-  📖 Membaca buku (tergantung mood)<br/><br/>
-</div>
+
+🎨 Gambar & Desain<br/>
+💻 Coding (tergantung mood bro)<br/><br/>
+
+🤸 Calisthenics<br/>
+🏸 Badminton<br/><br/>
+
+🔧 Bongkar & Merakit Elektronik<br/>
+📖 Membaca buku (tergantung mood)<br/><br/>
+
+🐈🐕 Sangat suka Kucing & Anjing<br/><br/>
+
+🍜 Makan (apapun itu)<br/>
+🎬 Nonton<br/><br/>
+
 
 <div align="center">
   𓂀 𓆟 𓆝 𓆞 𓆟 𓅂 𓆝 𓆞 𓆟<br/>

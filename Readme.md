@@ -37,26 +37,19 @@
   <br/><br/><br/>
   <img src="https://files.catbox.moe/yqrxxv.png" />
 </div>
-
 <div align="center">
   <a href="https://link-pertama.com">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUydDNxcGN3N20zdW42cHJwMTV4dXY1N2luOWc0OWh3Y3VwcHQ2NjlqaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5qTER3TSHnmzxHIVQS/giphy.gif" width="1000" />
   </a>
 </div>
-
 <h2 align="center">𖣘 Skil Saya 𖣘</h2>
 <h4 align="center">tapi ini belum expret yaa</h4>
-
 <br/>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,github,figma,javascript,nodejs,git" />
 </div>
-
 <br/>
-
 <h2 align="center" style="color: #007bff;">✥ Aplikasi ✥</h2>
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" />
   <a href="https://files.catbox.moe/k05rls.png">
@@ -72,9 +65,7 @@
     <img src="https://files.catbox.moe/myy6u9.png" width="48" />
   </a>
 </div>
-
 <h2 align="center" style="color: #007bff;">✤ Tenaga ✤</h2>
-
 <table align="center">
   <tr>
     <td>
@@ -87,24 +78,11 @@
     </td>
   </tr>
 </table>
-
-<br>
-
-<hr align="center" width="60%" style="border:1px dashed #888888"/>
-
-<br>
-
 <div align="center">
-  🎧 Now Playing on Spotify 🎶<br>
   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
     <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="800"/>
   </a>
-  <br><br>
-  <hr align="center" width="40%" style="border:1px solid #cccccc"/>
-  <i>✨ Keep coding, keep listening ✨</i>
 </div>
-
-
 <div align="center"> 
   <a href="mailto:animesensei198@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -119,9 +97,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
 <hr/>
-
 <div align="center">
   <a href="https://link-kedua.com">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDUyYTdqbTYxazhmanhmeG11MzNldGdpcTd1ZnF6d3JlenljODZrb2ZzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2kykwrkXOW7OiMTJ6f/giphy.gif" width="1000" />

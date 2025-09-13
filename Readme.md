@@ -16,16 +16,15 @@
   <b>✦ Hobi saya:</b><br/>
   🎨 Gambar & Desain<br/>
   💻 Coding (tergantung mood bro)<br/>
-  🍜 Makan<br/>
+  🍜 Makan (apapun itu) <br/>
   🤸 Calisthenics<br/>
   🏸 Badminton<br/>
   🔧 Bongkar & Merakit Elektronik<br/>
-  🐈 Pecinta Kucing<br/>
+  🐈 Sangat suka Kucing & Anjing 🐕 <br/>
   📖 Membaca buku (tergantung mood)<br/><br/>
 </div>
 
-<!-- Bagian aesthetic center -->
-<div style="text-align:center; font-size: 18px; margin-top: 20px; font-family: 'Courier New', monospace;">
+<div align="center">
   𓂀 𓆟 𓆝 𓆞 𓆟 𓅂 𓆝 𓆞 𓆟<br/>
   ✦ 👾 ✦<br/>
   <span style="letter-spacing:2px;">⊹ gurame ✤ nila ✺ mie ayam ✧ baso ✹ udang asam manis ✦</span><br/>

@@ -6,10 +6,12 @@
 
 <br/>
 
-<div align="center" style="text-align: justify; width: 500px;">
+<div style="text-align: left; width: 500px;">
 ✣ ditanya hobi mah udh pasti banyak.<br/>
-✣ Perkenalkan saya wowie saya memiliki hobi upgrade apk dan biasanya yang di recode whatsapp, membuat BOT whatsapp juga, saya menyukai dunia percodingan sejak smp dan terus melanjutkan hingga sekarang, Thanks Support me <br/>
-✣ Bukan progammer (hanya ada ketertarikan )<br/>
+✣ Perkenalkan saya Wowie, saya memiliki hobi upgrade apk dan biasanya yang di recode WhatsApp, membuat BOT WhatsApp juga. Saya menyukai dunia percodingan sejak SMP dan terus melanjutkan hingga sekarang, Thanks Support me.<br/>
+✣ Bukan programmer (hanya ada ketertarikan)<br/>
+</div>
+<div align="center">
 ✦ ✧ sorry jarang upload ya kids🗿 ✧ ✦
 <img src="https://files.catbox.moe/yqrxxv.png" />
 </div>

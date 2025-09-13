@@ -81,17 +81,18 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takamiwaa&layout=compact&theme=blue-green&border_radius=10" alt="Top Languages"/>
     </td>
     <td>
-      <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
-        <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="400"/>
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/Takamiwaa" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api?username=Takamiwaa&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
       </a>
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=313nilcmenul6wwrpytg3ttwdjxu">
+    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=313nilcmenul6wwrpytg3ttwdjxu" alt="Spotify Now Playing" width="800"/>
+  </a>
+</div>
 
 <br/><br/>
 
